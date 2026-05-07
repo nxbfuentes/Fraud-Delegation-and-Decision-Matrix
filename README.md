@@ -19,6 +19,7 @@ This table maps specific member scenarios to a **Risk Rating**, which then deter
 ---
 
 #### **2. Financial & Reputational Impact Levels**
+![fraud matrix](fraudmatrix.png)
 
 To align with TMBL’s broader risk framework, we define the "Impact" levels used in the matrix above:
 
